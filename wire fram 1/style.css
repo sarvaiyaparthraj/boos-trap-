@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.row{
+  border: 1px solid blue;
+  
+}
+.col-sm-4{
+    border: 1px solid red;
+}
+
+li{
+    
+    list-style: none;
+    text-align: center;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    padding-left: 40%;
+}
