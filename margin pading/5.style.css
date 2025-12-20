@@ -1,0 +1,27 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:sans-serif;
+}
+
+
+body{
+  background:#444;
+  color:white;
+}
+
+.col-4 .bg-white{
+  border-radius:15px;
+  font-size:20px;
+  color: blue;
+  text-align:center;
+  font-weight:600;
+  box-shadow:0 0 10px rgba(0,0,0,0.4);
+  cursor:pointer;
+}
+
+.col-4 .bg-white:hover{
+  background-color: #444;
+ 
+}

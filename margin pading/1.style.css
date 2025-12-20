@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+
+body {
+  font-family: Arial;
+  height: 30px;
+}
+
+.bg-success {
+ height: 150px;
+ width: 400px;
+}
+
+
+.container div {
+  transition: 0.3s;
+  height: 200px;
+  width: 200px;
+}
+
+
+
+
+.container div:hover {
+  transform: scale(1.02);
+  height: 150px;
+  width: 350px;
+}
