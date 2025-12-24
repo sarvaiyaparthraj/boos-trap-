@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 1px solid black;
+    background-color: rgb(198, 150, 30);
+    color: yellow;
+}
+
+.row{
+    border: 3px solid black;
+    height: 500px;
+
+    
+}
+.col-md-2{
+    border: 1px solid black;
+}
