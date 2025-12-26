@@ -1,0 +1,21 @@
+.container{
+    border: 1px solid black;
+    display: flex;
+   
+}
+
+.row{
+    border-radius:10px ;
+    width: 200px;
+  
+  
+}.row
+
+.col{
+    border-radius: 10px;
+    height: 10rem;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
