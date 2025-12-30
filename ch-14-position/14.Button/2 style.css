@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 2px solid black;
+    height: 850px;
+
+}
+.row{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+   

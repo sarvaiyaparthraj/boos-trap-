@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 3px solid black;
+    gap: 10px;
+    background-color: #e7efff;
+    position: relative;
+}
