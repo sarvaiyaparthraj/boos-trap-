@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 2px black;
+    
+}
+
+.col-md-4 {
+  height: 400px;
+  border: 2px dashed gainsboro;
+  box-shadow: 2px;
+}
+
+.box {
+  margin-top: 20px;
+}
